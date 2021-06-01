@@ -1,9 +1,9 @@
 ## Hi from Unitoo!
 
-<a href='https://gitlab.com/unitoo'><img align='left' alt="gitlab" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/gitlab.png" height='18px'/></a>
-<a href='https://github.com/UnitooTeam'><img align='left' alt="github" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/github.png" height='18px'/></a>
-<a href='https://mastodon.uno/@unitoo'><img alt="mastodon" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/mastodon.png" height='18px'/></a>
-<a href='https://liberapay.com/Unitoo/'><img alt="liberapay" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/liberapay.png" height='18px'/></a>
+<a href='https://gitlab.com/unitoo'><img align='left' alt="gitlab" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/gitlab.png" height='36px'/></a>
+<a href='https://github.com/UnitooTeam'><img align='left' alt="github" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/github.png" height='36px'/></a>
+<a href='https://mastodon.uno/@unitoo'><img alt="mastodon" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/mastodon.png" height='36px'/></a>
+<a href='https://liberapay.com/Unitoo/'><img alt="liberapay" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/liberapay.png" height='36px'/></a>
 
 We are an Italian IT company founded by people dedicated to free as in freedom software, working with ethical principles and agile methodologies.
 <br/>
